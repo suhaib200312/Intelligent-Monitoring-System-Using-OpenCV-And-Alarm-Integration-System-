@@ -10,7 +10,7 @@ tkinter
 
 installed to run these scripts properly
 
-crete a folder to save all recorded files
+create a folder to save all recorded files
 
 thanks ;) 
 
